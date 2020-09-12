@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "@microsoft/signalr": "^3.1.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
